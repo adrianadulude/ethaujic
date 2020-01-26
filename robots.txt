@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiroephae.thekhanasutra.com/sitemap.xml
